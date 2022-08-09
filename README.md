@@ -33,6 +33,6 @@
 4. *Initiating PySparkMLPredict.py*. 
     * `PySparkMLPredict.py --data_path=test.parquet --model_path=spark_ml_model --result_path=result`
    
-[1]:https://github.com/Amboss/apache_pyspark_ml/blob/master/scripts/PySparkFit.py
-[2]:https://github.com/Amboss/apache_pyspark_ml/blob/master/scripts/PySparkPredict.py
+[1]: https://github.com/s-evsyukov/apache_pyspark_ml/blob/adce25ca33871a9ecc16d140570551bbbdb2495b/scripts/PySparkFit.py
+[2]: https://github.com/s-evsyukov/apache_pyspark_ml/blob/adce25ca33871a9ecc16d140570551bbbdb2495b/scripts/PySparkPredict.py
 
